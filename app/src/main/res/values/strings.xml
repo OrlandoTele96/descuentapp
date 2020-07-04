@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">descuentapp</string>
+
+    <string name="tvusern">User name</string>
+    <string name="tvuserpwd">Password</string>
+    <string name="etusern">Ex. @username_algo</string>
+    <string name="etpwd">Type your password...</string>
+    <string name="btnlogin">Log in</string>
+
+
+    <string name="logActivity">MAINACTIVITY</string>
+    <string name="logMA_username">User name : </string>
+    <string name="logMA_pwd">Password : </string>
+</resources>
