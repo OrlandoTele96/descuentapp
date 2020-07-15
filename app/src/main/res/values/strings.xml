@@ -11,4 +11,11 @@
     <string name="logActivity">MAINACTIVITY</string>
     <string name="logMA_username">User name : </string>
     <string name="logMA_pwd">Password : </string>
+    <string name="logPrincipal">PRINCIPALACTIVITY</string>
+    <string name="logPrincipal_item">Item description: </string>
+    <string name="logItemActivity">ITEMACTIVITY</string>
+    <string name="logItemActivity_item">Item description: </string>
+
+    <string name="key_item">item</string>
+
 </resources>
